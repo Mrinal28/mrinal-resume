@@ -32,7 +32,7 @@ const Header = () => (
           </div>
         </div>
 
-        <div className="tag-cmp app__flex" onClick={() => window.open('http://downloads-server-alpha.mrinalmohan.com/0:/Mrinal%20Mohan%20Resume.pdf', '_blank')}>
+        <div className="tag-cmp app__flex" onClick={() => window.open('https://downloads-server-alpha.mrinalmohan.com/0:/Mrinal%20Mohan%20Resume.pdf', '_blank')}>
           <p className="p-text">Download My Resume</p>
         </div>
       </div>

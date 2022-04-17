@@ -3,7 +3,7 @@ import { BsLinkedin, BsGithub, BsFillFileEarmarkArrowDownFill } from 'react-icon
 
 const SocialMedia = () => (
   <div className="app__social">
-    <div onClick={() => window.open('http://downloads-server-alpha.mrinalmohan.com/0:/Mrinal%20Mohan%20Resume.pdf', '_blank')}>
+    <div onClick={() => window.open('https://downloads-server-alpha.mrinalmohan.com/0:/Mrinal%20Mohan%20Resume.pdf', '_blank')}>
       <BsFillFileEarmarkArrowDownFill />
     </div>
     <div onClick={() => window.open('https://www.linkedin.com/in/mrinal-mohan/', '_blank')}>
