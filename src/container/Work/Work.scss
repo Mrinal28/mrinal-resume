@@ -109,6 +109,10 @@
   opacity: 0;
   transition: all 0.3s ease;
 
+  @media screen and (max-width: 1023px) {
+    opacity: 1;
+  }
+
   div {
     width: 50px;
     height: 50px;

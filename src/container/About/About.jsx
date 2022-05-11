@@ -19,7 +19,7 @@ const About = () => {
   return (
     <>
       <h2 className="head-text"><span>About Me</span></h2>
-      <h4 className="head-text-smaller">Javascript frontend/UI Developer offering 2 years of extensive experience and exceptional analytical and critical thinking skills.</h4>
+      <h4 className="head-text-smaller">Javascript frontend/UI Developer offering 2+ years of extensive experience and exceptional analytical and critical thinking skills.</h4>
 
       <div className="app__profiles">
         {abouts.map((about, index) => (
